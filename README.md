@@ -6,7 +6,7 @@ My ToDoList, günlük görevlerinizi yönetmenize ve yapılacaklar listenizi org
 
 - Yeni görevler ekleyin.
 - Görevleri "Tamamlandı" olarak işaretleyin.
-- Görevleri kategorilere göre düzenleyin (Çalışma, Ders, Parti).
+- Görevleri kategorilere göre düzenleyin (Çalışma, Ders, Parti)
 - Mevcut görevleri düzenleyin veya silin.
 
 ## Ekran Görüntüleri
