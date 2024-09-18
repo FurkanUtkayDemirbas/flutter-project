@@ -26,7 +26,7 @@ Bu uygulamayı klonlamak ve çalıştırmak için [Git](https://git-scm.com) ve 
 
 ```bash
 # Bu depoyu klonlayın
-$ git clone https://github.com/kullaniciadi/todolist-flutter.git
+$ https://github.com/FurkanUtkayDemirbas/flutter-project/tree/main
 
 # Depo dizinine gidin
 $ cd todolist-flutter
@@ -36,6 +36,19 @@ $ flutter pub get
 
 # Uygulamayı çalıştırın
 $ flutter run
+```
+
+Değişkenler
+study: Ders çalışma ile ilgili görevleri takip eder.
+lesson: Ders veya akademik oturumları takip eder.
+goToParty: Sosyal veya eğlence aktivitelerini takip eder.
+completed: Görevin tamamlanıp tamamlanmadığını belirten bir boolean değişkeni.
+
+Kullanım
+"Görev Ekle" butonuna tıklayarak yeni bir görev ekleyin.
+Görevi uygun kategoriye göre (çalışma, ders, parti) düzenleyin.
+Görevleri tamamladığınızda "Tamamlandı" kutusunu işaretleyin.
+
 
 
 
